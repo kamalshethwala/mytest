@@ -1,0 +1,2 @@
+this is file adding to newBranch 
+before pulling into master
